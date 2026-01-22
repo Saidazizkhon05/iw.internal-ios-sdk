@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "TestFingerprintSDK",
-            url: "https://github.com/YOUR_ORG/TestFingerprintSDK/releases/download/1.0.0/TestFingerprintSDK.xcframework.zip",
-            checksum: "YOUR_CHECKSUM_HERE"
+            url: "https://github.com/Saidazizkhon05/iw.internal-ios-sdk/releases/download/0.1.0/TestFingerprintSDK.xcframework.zip",
+            checksum: "bed325eca8b07df9d21928dd37ff6de3c01df1f551956dad9f075b9f292a75dc"
         )
     ]
 )
